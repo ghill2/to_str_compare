@@ -1,0 +1,6 @@
+[submodule "nautilus_trader_decrement"]
+	path = nautilus_trader_decrement
+	url = ./nautilus_trader_decrement
+[submodule "nautilus_trader_cstring"]
+	path = nautilus_trader_cstring
+	url = ./nautilus_trader_cstring
